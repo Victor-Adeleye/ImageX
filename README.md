@@ -1,4 +1,18 @@
-<div align="center"> <br /> <a href="https://github.com/Victor-Adeleye/ImageX" target="_blank"> <img src="https://i.postimg.cc/QMzcjy35/ai-img-generator.png" alt="Project Banner"> </a> <br /> <div> <img src="https://img.shields.io/badge/-React_Native-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="react-native" /> <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" /> <img src="https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logoColor=white&logo=node.js&color=339933" alt="node.js" /> <img src="https://img.shields.io/badge/-Express-black?style=for-the-badge&logoColor=white&logo=express&color=000000" alt="express" /> <img src="https://img.shields.io/badge/-Replicate_API-black?style=for-the-badge&logoColor=white&logo=replicate&color=412991" alt="replicate-api" /> </div> <h3 align="center">ImageX: Full Stack AI Image Generator App</h3> <div align="center"> Build your own AI image generator app with ImageX! Follow the project step by step using available tutorials or explore the code to customize your experience. </div> </div>
+<div align="center"> <br /> <a href="https://github.com/Victor-Adeleye/ImageX" target="_blank"> <img src="https://i.postimg.cc/QMzcjy35/ai-img-generator.png" alt="Project Banner"> </a> <br /> 
+  <div> 
+    <img src="https://img.shields.io/badge/-React_Native-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="react-native" /> 
+  
+<img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" /> 
+<img src="https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logoColor=white&logo=node.js&color=339933" alt="node.js" /> 
+
+<img src="https://img.shields.io/badge/-Express-black?style=for-the-badge&logoColor=white&logo=express&color=000000" alt="express" /> 
+<img src="https://img.shields.io/badge/-Replicate_API-black?style=for-the-badge&logoColor=white&logo=replicate&color=412991" alt="replicate-api" /> 
+
+</div> <h3 align="center">ImageX: Full Stack AI Image Generator App</h3> 
+
+<div align="center"> Build your own AI image generator app with ImageX! Follow the project step by step using available tutorials or explore the code to customize your experience. 
+</div> 
+</div>
 
 
 📋 Table of Contents
